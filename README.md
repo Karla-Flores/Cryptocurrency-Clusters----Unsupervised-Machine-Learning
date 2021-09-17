@@ -1,6 +1,8 @@
 <h1>Cryptocurrency Clusters--Unsupervised Machine Learning</h1>
 <hr>
+<br>
 <h3>Background</h3>
+<hr>
 <p align= 'justify'>This project aims to use unsupervised machine learning to analyze a database of cryptocurrencies and create a report including the traded cryptocurrencies classified by group according to their features.
 An investment bank could use this classification report to propose a new cryptocurrency investment portfolio to its clients.
 We use the following methods for the analysis:</p>
@@ -12,6 +14,7 @@ We use the following methods for the analysis:</p>
 <li>Visualizing classification results with 2D and 3D scatter plots.</li>
 </ul>
 <h3>Process</h3>
+<hr>
 <ul>
 <li><strong>Preprocessing the database.</strong></li>
 <p align= 'justify'>Following the preprocessing instructions and cleaning phase, a total of 532 tradable cryptocurrencies were left. </p>
@@ -26,12 +29,12 @@ We use the following methods for the analysis:</p>
 <li><strong>Visualizing classification results with 2D and 3D scatter plots.</strong></li>
 <p align= 'justify'></p>
   
-  
 2D - Scatter plot with clusters<br>
 <p align= 'center'><img src = 'https://github.com/Karla-Flores/Cryptocurrency-Clusters--Unsupervised-Machine-Learning/blob/main/Screenshots/Scatterplot.png'></p>
 3D - Scatter plot with clusters<br>
 <img src = 'https://github.com/Karla-Flores/Cryptocurrency-Clusters--Unsupervised-Machine-Learning/blob/main/Screenshots/3D.png'><br>
 
-
+<h3>Summary </h3>
+<hr>
 <p align= 'justify'></p>
-<h3></h3>
+
