@@ -13,14 +13,23 @@ We use the following methods for the analysis:</p>
 </ul>
 <h3>Process</h3>
 <ul>
+<li><strong>Preprocessing the database.</strong></li>
+<p align= 'justify'>Following the preprocessing instructions and cleaning phase, a total of 532 tradable cryptocurrencies were left. </p>
 <li><strong>Reducing Data Dimensions with PCA.</strong></li>
-<p align= 'justify'>The PCA algorithm was used for reducing the data after the preprocessing.</p>
+<p align= 'justify'>The PCA algorithm was used for reducing the data after the preprocessing, in this case the components number was 90.</p>
+
 <li><strong>Clustering Cryptocurrencies using K-Means - Elbow Curve</strong></li>
-<p align= 'justify'></p>
+<p align= 'justify'>The purpose of K-means algorithm was to predict the K clusters for the cryptocurrencies.   Also, an elbow curve was produced using the K-Means method iterating on K values from 1 to 10.</p>
+<p align= 'center'>
 <img src='https://github.com/Karla-Flores/Cryptocurrency-Clusters--Unsupervised-Machine-Learning/blob/main/Screenshots/Elbow_Curve.png'>
-<li></li>
-<li></li>
+</p>
+<li><strong>Visualizing classification results with 2D and 3D scatter plots.</strong></li>
+<p align= 'justify'></p>
+<img src = 'https://github.com/Karla-Flores/Cryptocurrency-Clusters--Unsupervised-Machine-Learning/blob/main/Screenshots/Scatterplot.png'> 
+  
+<img src = 'https://github.com/Karla-Flores/Cryptocurrency-Clusters--Unsupervised-Machine-Learning/blob/main/Screenshots/3D.png'>
 </ul>
+
+
 <p align= 'justify'></p>
 <h3></h3>
-<p align= 'justify'></p>
