@@ -25,10 +25,12 @@ We use the following methods for the analysis:</p>
 </p>
 <li><strong>Visualizing classification results with 2D and 3D scatter plots.</strong></li>
 <p align= 'justify'></p>
-<img src = 'https://github.com/Karla-Flores/Cryptocurrency-Clusters--Unsupervised-Machine-Learning/blob/main/Screenshots/Scatterplot.png'> 
   
-<img src = 'https://github.com/Karla-Flores/Cryptocurrency-Clusters--Unsupervised-Machine-Learning/blob/main/Screenshots/3D.png'>
-</ul>
+  
+2D - Scatter plot with clusters<br>
+<p align= 'center'><img src = 'https://github.com/Karla-Flores/Cryptocurrency-Clusters--Unsupervised-Machine-Learning/blob/main/Screenshots/Scatterplot.png'></p>
+3D - Scatter plot with clusters<br>
+<img src = 'https://github.com/Karla-Flores/Cryptocurrency-Clusters--Unsupervised-Machine-Learning/blob/main/Screenshots/3D.png'><br>
 
 
 <p align= 'justify'></p>
