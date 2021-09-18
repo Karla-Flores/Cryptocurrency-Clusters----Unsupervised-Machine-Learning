@@ -29,12 +29,12 @@ We use the following methods for the analysis:</p>
 <li><strong>Visualizing classification results with 2D and 3D scatter plots.</strong></li>
 <p align= 'justify'></p>
   
-2D - Scatter plot with clusters<br>
+<strong><i>2D - Scatter plot with clusters</strong></i><br>
 <p align= 'center'><img src = 'https://github.com/Karla-Flores/Cryptocurrency-Clusters--Unsupervised-Machine-Learning/blob/main/Screenshots/Scatterplot.png'></p>
-3D - Scatter plot with clusters<br>
+<strong><i>3D - Scatter plot with clusters</strong></i><br>
 <img src = 'https://github.com/Karla-Flores/Cryptocurrency-Clusters--Unsupervised-Machine-Learning/blob/main/Screenshots/3D.png'><br>
 
 <h3>Summary </h3>
 <hr>
-<p align= 'justify'></p>
+<p align= 'justify'>After the Custer analysis with K-means, the result determined four clusters to be considered tradable cryptocurrencies.</p>
 
